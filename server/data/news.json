@@ -1,0 +1,37 @@
+ [
+    {
+      "id": 1,
+      "title": "D Fadnavis Will Be Maharashtra Chief Minister, Oath Tomorrow",
+      "description": "Devendra Fadnavis is set to take oath as Maharashtra Chief Minister at Mumbai's Azad Maidan tomorrow, starting his third term in the top post. ",
+      "url": "https://www.ndtv.com/india-news/devendra-fadnavis-to-be-maharashtra-chief-minister-consensus-reached-at-bjp-meet-7168538",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSux-5zexCOnh3j12IFkqbbkkr9Gf9T1Fq5hq73yVjjOsdIg1i9HndNRyPSkbS0chNW9Au6ZcwLopTpvg8"
+    },
+    {
+      "id": 2,
+      "title": "Pat Cummins targets Border-Gavaskar Trophy as 'one last thing to tick off'",
+      "description": "Australian captain Pat Cummins has achieved significant mile",
+      "url": "http://timesofindia.indiatimes.com/articleshow/115994675.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
+      "image": "https://images.indianexpress.com/2023/10/Pat-Cummins-1.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Pushpa 2 review live: Allu Arjun's film leaked online within hours of release",
+        "description": "Pushpa 2 movie review and release live updates: Allu Arjun, Rashmika Mandanna's massy epic is all set to hit theatres worldwide today",
+        "url": "https://www.hindustantimes.com/entertainment/telugu-cinema/pushpa-2-movie-review-and-release-live-updates-allu-arjun-rashmika-mandanna-fahadh-faasil-box-office-day-1-rating-101733366792166.html",
+        "image": "https://www.hindustantimes.com/ht-img/img/2024/12/05/550x309/pushpa_2_review_live_1733378954670_1733378955091.jpeg"
+      },
+      {
+        "id": 4,
+        "title": "Naga Chaitanya and Sobhita Dhulipala are married",
+        "description": "Naga Chaitanya and Sobhita Dhulipala have tied the knot at his family's Annapurna Studios. The pictures were shared by his dad Nagarjuna.",
+        "url": "https://www.hindustantimes.com/entertainment/telugu-cinema/naga-chaitanya-and-sobhita-dhulipala-are-married-nagarjuna-shares-first-official-wedding-pics-101733329123998.html?utm_source=taboola_widget&utm_medium=taboola_widget&utm_campaign=article_detail_page",
+        "image": "https://www.hindustantimes.com/ht-img/img/2024/12/04/550x309/naga_chaitanya_sobhita_dhulipala_1733329187545_1733329187766.jpeg"
+      },
+      {
+        "id": 5,
+        "title": "Why Vodafone Idea stock is falling, Indus Towers climbing today",
+        "description": "Shares of Vodafone Idea (Vi) fell 3 per cent to Rs 8.15 on the BSE in Thursday’s intra-day trade after the company said its board will consider fundraising of up to Rs 2,000 crore in a meeting on December 9.",
+        "url": "https://www.business-standard.com/markets/news/voda-idea-falls-7-from-day-s-high-on-fund-raising-plan-indus-towers-up-2-124120500208_1.html",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/27/full/1724739089-6041.jpg?im=FeatureCrop,size=(826,465)"
+      }
+  ]
